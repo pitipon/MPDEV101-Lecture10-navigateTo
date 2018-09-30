@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class='banner'>
+  <view>My Restuarant</view>
+  <button bindtap="gotoProfile" class="myButton"> Profile </button>
+</view>

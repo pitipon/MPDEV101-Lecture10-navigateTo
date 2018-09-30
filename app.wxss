@@ -1,0 +1,19 @@
+/**app.wxss**/
+.banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  background-color: goldenrod;
+  font-size: 60rpx;
+  
+}
+
+.myButton {
+  background-color: black;
+  color: white;
+  margin-top: 50rpx;
+  padding: 10rpx 100rpx;
+}

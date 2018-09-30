@@ -1,0 +1,9 @@
+<!--pages/profile/profile.wxml-->
+<view class='banner'>
+
+  <view>{{name}}</view>
+  <view>{{address}}</view>
+  <view>{{email}}</view>
+
+  <button bindtap="goBack" class="myButton">Back</button>
+</view>
